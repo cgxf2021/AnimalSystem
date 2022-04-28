@@ -1,6 +1,3 @@
-from email import header
-
-
 class Rule(object):
     """
     description: 存储规则的数据结构

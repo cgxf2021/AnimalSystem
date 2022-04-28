@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.9.30)  23 APR 2022 16:51
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.9.30)  28 APR 2022 12:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1395,20 +1395,20 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 LaTeX Font Warning: Font shape `TU/FangSong(0)/m/it' undefined
 (Font)              using `TU/FangSong(0)/m/n' instead on input line 148.
 
-[4]
+[4] [5]
 File: ./resource/show1.jpg Graphic file (type bmp)
 <./resource/show1.jpg>
 File: ./resource/show2.jpg Graphic file (type bmp)
 <./resource/show2.jpg>
 File: ./resource/show3.jpg Graphic file (type bmp)
 <./resource/show3.jpg>
- [5] (../code/animal_system.py [6] [7]) (../code/form.py [8] [9] [10])
-[11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
+ [6] (../code/animal_system.py [7] [8]) (../code/form.py [9] [10]
+[11]) [12]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 248.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
  (./experiment_2.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 221.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 248.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 248.
 Package rerunfilecheck Info: File `experiment_2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
 
@@ -1417,12 +1417,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 39201 strings out of 492922
- 796741 string characters out of 6132153
- 1237565 words of memory out of 5000000
- 42689 multiletter control sequences out of 15000+600000
+ 39197 strings out of 492922
+ 796699 string characters out of 6132153
+ 1236575 words of memory out of 5000000
+ 42685 multiletter control sequences out of 15000+600000
  537737 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 54i,18n,81p,849b,1941s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,18n,81p,849b,2004s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on experiment_2.pdf (11 pages).
+Output written on experiment_2.pdf (12 pages).
